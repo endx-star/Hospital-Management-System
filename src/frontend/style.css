@@ -1,0 +1,14 @@
+#root{
+-fx-background-color:linear-gradient(lightgray, gray);
+-fx-border-color:white;
+-fx-border-radius:20;
+-fx-padding:10 10 10 10;
+-fx-background-radius:20;
+}
+#rotter{
+-fx-background-color:linear-gradient(lightblue,blue);
+-fx-border-color:white;
+-fx-border-radius:20;
+-fx-padding:10 10 10 10;
+-fx-background-radius:20;
+}
